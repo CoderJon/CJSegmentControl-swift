@@ -1,5 +1,6 @@
 # CJSegmentControl-swift
 As the content of each application expands, segment control switching is necessary.
+blog:<http://blog.csdn.net/H_Qiao/article/details/74698071>
 ## function
 * SegmentControl
 * When switching color gradient
